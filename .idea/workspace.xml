@@ -4,25 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="30f4da8b-4622-41a7-b473-cba3c1912ccf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_8_0_30.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Connmection02.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ra/business/CategoryBusiness.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ra/business/ProductBusiness.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ra/entity/Category.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ra/entity/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ra/presentation/CategoryManagement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ra/presentation/ProductManagement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ra/presentation/StoreManagement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ra/util/ConnectionDB.java" afterDir="false" />
-    </list>
+    <list default="true" id="30f4da8b-4622-41a7-b473-cba3c1912ccf" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,7 +37,7 @@
     "Application.StoreManagement.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "D:/sql/mysql-connector-java-8.0.30.jar",
     "node.js.detected.package.eslint": "true",
@@ -90,7 +72,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1740126694882</updated>
-      <workItem from="1740126695928" duration="6180000" />
+      <workItem from="1740126695928" duration="6303000" />
     </task>
     <servers />
   </component>
